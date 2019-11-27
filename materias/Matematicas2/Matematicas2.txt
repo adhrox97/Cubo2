@@ -1,2 +1,0 @@
-materias/Matematicas2/derivadas.png
-materias/Matematicas2/integrales.png
