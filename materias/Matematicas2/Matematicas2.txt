@@ -1,0 +1,4 @@
+materias/Matematicas2/e1.png
+materias/Matematicas2/e2.png
+materias/Matematicas2/e3.png
+materias/Matematicas2/e4.png
