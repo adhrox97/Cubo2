@@ -1,0 +1,7 @@
+materias/Lenguaje1/L1_0.png
+materias/Lenguaje1/L1_1.png
+materias/Lenguaje1/L1_2.png
+materias/Lenguaje1/L1_3.png
+materias/Lenguaje1/L1_4.png
+materias/Lenguaje1/L1_5.png
+materias/Lenguaje1/L1_6.png
