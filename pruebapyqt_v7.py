@@ -234,7 +234,6 @@ class VentanaAsignatura(QMainWindow):
 
     def abrirVentanaPrincipal(self):
 
-        self.s.stop()
         self.timer.stop()
         self.close()
         otraventana=VentanaPrincipal(self)
