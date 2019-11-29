@@ -1,0 +1,15 @@
+materias/Lenguaje2/l1.png
+materias/Lenguaje2/l2.png
+materias/Lenguaje2/l3.png
+materias/Lenguaje2/l4.png
+materias/Lenguaje2/l5.png
+materias/Lenguaje2/l6.png
+materias/Lenguaje2/l7.png
+materias/Lenguaje2/l8.png
+materias/Lenguaje2/l9.png
+materias/Lenguaje2/l10.png
+materias/Lenguaje2/l11.png
+materias/Lenguaje2/l12.png
+materias/Lenguaje2/l13.png
+materias/Lenguaje2/l14.png
+materias/Lenguaje2/l15.png
