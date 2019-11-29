@@ -1,0 +1,2 @@
+materias/Artistica2/A0.png
+materias/Artistica2/A1.png
