@@ -1,4 +1,0 @@
-materias/Ciencias1/b1.jpg
-materias/Ciencias1/b2.jpg
-materias/Ciencias1/b3.jpg
-materias/Ciencias1/b4.jpg
